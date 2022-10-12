@@ -9,13 +9,10 @@ export function SectionFour(){
             <ContainerText id="SectionFour">
                 <TitleText>Where does it come from?</TitleText>
                 <TextSubTitle>
-                    Todas as ferramentas
-                    para você criar o seu curso.
+                    Filhote de Labrador
                 </TextSubTitle>
                 <TextP>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac sagittis tellus,
-                    eu congue magna. Vivamus venenatis, nunc et commodo lacinia, est odio blandit nibh, aliquet
-                    mollis nunc ipsum id ligula. Aliquam pulvinar porttitor neque non consectetur.
+                    O filhote de Labrador é energia pura! A raça, que é conhecida por seu companheirismo e hiperatividade, adora uma boa brincadeira e está sempre em busca de aventuras. 
                 </TextP>
        
             </ContainerText>
