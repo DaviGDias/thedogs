@@ -6,7 +6,7 @@ export const Container = styled.section`
     align-items: center;
     justify-content: center;
     width: 100%;
-    background: ${(props) => props.theme['white']};
+    background: ${(props) => props.theme['orange-100']};
     height: 90vh;
 `;
 
