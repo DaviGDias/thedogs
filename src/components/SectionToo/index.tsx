@@ -8,13 +8,10 @@ export function SectionToo() {
                 <ContainerText>
                     <TitleText>Where does it come from?</TitleText>
                     <TextSubTitle>
-                        Todas as ferramentas
-                        para você criar o seu curso.
+                       Rottweiler e sua imponência
                     </TextSubTitle>
                     <Text>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac sagittis tellus,
-                        eu congue magna. Vivamus venenatis, nunc et commodo lacinia, est odio blandit nibh, aliquet
-                        mollis nunc ipsum id ligula. Aliquam pulvinar porttitor neque non consectetur.
+                        Rottweiler é uma raça de cães molossos desenvolvida na Alemanha. Criada por açougueiros da região de Rottweil para o trabalho com o gado, logo tornou-se um eficiente cão de guarda e boiadeiro, e cão de tração. Devido à sua utilidade, tornou-se popular em todo o mundo ao decorrer do século XX.
                     </Text>
                     <Button />
                 </ContainerText>
