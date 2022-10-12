@@ -30,7 +30,7 @@ export function Header() {
                     <NavLink>
                         Home
                     </NavLink>
-                    <NavLink id='SectionFour'>
+                    <NavLink>
                         Sobre
                     </NavLink>
                     <NavLink>
